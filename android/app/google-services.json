@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "567546430323",
+    "project_id": "talkify-74f7e",
+    "storage_bucket": "talkify-74f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567546430323:android:6af34ceadbc925aedb7b06",
+        "android_client_info": {
+          "package_name": "com.example.talkify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567546430323-saald88ggoj1npq2fq7kuvaqh8a56f59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkify",
+            "certificate_hash": "6bb2c4fa611a9d84849ee840324dfc547ce1216c"
+          }
+        },
+        {
+          "client_id": "567546430323-o52as1s9j6ucj1h5fe13s01t3v2adpv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahghDaRoh7t0vy4wvhMZ3MuA1c_vuw40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567546430323-o52as1s9j6ucj1h5fe13s01t3v2adpv5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567546430323-3lkc2oonrkehl3qiba8pv06bnia3ln6t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talkify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
